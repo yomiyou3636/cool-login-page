@@ -22,4 +22,5 @@ Simply open the `index.html` file in a web browser to view the login page.
 
 ## License
 
-This project is under  no  License.
+This project is not under any
+License.
