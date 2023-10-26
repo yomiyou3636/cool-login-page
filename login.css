@@ -15,7 +15,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    animation: colorChange 5s alternate infinite;
+    animation: colorChange 4s alternate infinite;
  
 }
 
